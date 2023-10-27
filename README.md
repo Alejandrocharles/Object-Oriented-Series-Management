@@ -1,5 +1,5 @@
 # Object-Oriented-Series-Management
-"TV Series Manager: C++ project for organizing, editing, and calculating ratings of series and episodes using object-oriented programming
+TV Series Manager: C++ project for organizing, editing, and calculating ratings of series and episodes using object-oriented programming
 
 ## Description
 This C++ project, "Object-Oriented Series Management," is designed to help users manage and organize their favorite TV series and their corresponding episodes. The program allows you to create, edit, and view information about TV series and their episodes, while also providing functionality to calculate the average rating of a series. The project employs object-oriented programming principles to create and manage Series and Episode objects.
